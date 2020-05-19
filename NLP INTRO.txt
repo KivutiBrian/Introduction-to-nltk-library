@@ -1,0 +1,53 @@
+NATURAL LANGUAGE PROCESSING
+*Natural Language Processing, or NLP for short, is broadly defined as the automatic manipulation of natural language, like speech and text, by software.
+*NLP is a subfield of computer science and artificial intelligence concerned with interactions between computers and human (natural) languages. 
+*The study of natural language processing has been around for more than 50 years and grew out of the field of linguistics with the rise of computers
+
+
+WHAT IS A NATURAL LANGUAGE?
+-A natural language is any language that has evolved naturally in humans through use and repetition without conscious planning or premeditation.EG English, Spanish
+-refers to the way we, humans, communicate with each other.
+-We are surrounded by text.
+
+-Everything we express (either verbally or in written) carries huge amounts of information.
+he topic we choose, our tone, our selection of words, everything adds some type of information that can be interpreted and value extracted from it. 
+In theory, we can understand and even predict human behaviour using that information.
+
+-But there is a problem: one person may generate hundreds or thousands of words in a declaration, each sentence with its corresponding complexity. 
+If you want to scale and analyze several hundreds, thousands or millions of people or declarations in a given geography, then the situation is unmanageable.
+
+-Data generated from conversations, declarations or even tweets are examples of unstructured data. 
+Unstructured data doesn’t fit neatly into the traditional row and column structure of relational databases, 
+and represent the vast majority of data available in the actual world. It is messy and hard to manipulate. 
+
+-Nevertheless, thanks to the advances in disciplines like machine learning a big revolution is going on regarding this topic. 
+Nowadays it is no longer about trying to interpret a text or speech based on its keywords (the old fashioned mechanical way), 
+but about understanding the meaning behind those words (the cognitive way).
+
+Think about how much text you see each day:
+Signs
+Menus
+Email
+SMS
+Web Pages
+and so much more
+
+APPLICATIONS OF NLP
+1.NLP enables the recognition and prediction of diseases based on electronic health records and patient’s own speech. 
+This capability is being explored in health conditions that go from cardiovascular diseases to depression and even schizophrenia.
+ For example, Amazon Comprehend Medical is a service that uses NLP to extract disease conditions, medications and treatment outcomes from patient notes,
+ clinical trial reports and other electronic health records.
+
+2.Organizations can determine what customers are saying about a service or product by identifying and extracting information in sources like social media. 
+This sentiment analysis can provide a lot of information about customers choices and their decision drivers.
+
+3.Companies like Yahoo and Google filter and classify your emails with NLP by analyzing text in emails that flow through their servers and stopping spam 
+before they even enter your inbox.
+
+4.To help identifying fake news, the NLP Group at MIT developed a new system to determine if a source is accurate or politically biased, detecting 
+if a news source can be trusted or not.
+
+
+NATURAL LANGUAGE TOOLKIT
+-This toolkit is one of the most powerful NLP libraries which contains packages to make machines understand human language and reply to it with an appropriate response.
+**get in notebook
